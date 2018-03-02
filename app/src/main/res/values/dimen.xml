@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="song_name_size">24sp</dimen>
+    <dimen name="artist_size">16sp</dimen>
+    <dimen name="time_size">12sp</dimen>
+    <dimen name="image_size">250dp</dimen>
+    <dimen name="play_pause_size">50dp</dimen>
+    <dimen name="button_listen_size">40dp</dimen>
+</resources>

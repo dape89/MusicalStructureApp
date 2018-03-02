@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="name_song">Song name</string>
+    <string name="artist">Artist</string>
+    <string name="time">Time</string>
+    <string name="listen">Listen</string>
+    <string name="detail_name">Song name</string>
+    <string name="detail_artist">Artist</string>
+    <string name="detail_time">Time</string>
+    <string name="button_song_list">Song list</string>
+</resources>
